@@ -1,4 +1,4 @@
-# Preview of IPL - Win Predictor Website:
+# IPL - Win Predictor
 
 The IPL Win Predictor is a tool that utilizes a Linear Regression model, a type of machine learning algorithm, to make predictions about the likelihood of a specific team winning an ongoing IPL cricket match. It leverages advanced computational techniques to forecast the win percentage, providing insights into the probable outcome based on historical data and various match parameters.
 
